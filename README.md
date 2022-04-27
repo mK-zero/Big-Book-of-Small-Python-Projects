@@ -7,9 +7,9 @@ Starting from : April 27, 2022
 
 ## Contents
 
-- <b>Project 1</b> - [Bagels]
+- <b>Project 1</b> - [Bagels](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/1_bagels)
 
-- <b>Project 2</b> - [Birthday Paradox]
+- <b>Project 2</b> - [Birthday Paradox](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/2_birthday-paradox)
 
 <p align="center">
 Last Updated : April 27, 2022
