@@ -7,9 +7,13 @@ Starting from : April 27, 2022
 
 ## Contents
 
-- <b>Project 1</b> - [Bagels](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/1_bagels)
+- <b>Project 1</b> - [Bagels - Practice using constants](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/1_bagels)
 
-- <b>Project 2</b> - [Birthday Paradox](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/2_birthday-paradox)
+- <b>Project 2</b> - [Birthday Paradox - Use Python's datetime module](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/2_birthday-paradox)
+
+- <b>Project 3</b> - [Bitmap Message - Work with multiline strings]
+
+- <b>Project 5</b> - [Blackjack - Learn about Unicode characters and code points]
 
 <p align="center">
 Last Updated : April 27, 2022
