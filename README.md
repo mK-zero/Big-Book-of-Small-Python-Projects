@@ -15,8 +15,10 @@ Starting from : April 27, 2022
 
 - <b>Project 4</b> - [Blackjack - Learn about Unicode characters and code points](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/4_blackjack)
 
+- <b>Project 5</b> - [Bouncing DVD Logo - Work with coordinates and colorful text](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/5_bouncing-dvd-logo)
+
 <p align="center">
-Last Updated : April 28, 2022
+Last Updated : April 30, 2022
 </p>
 
 <p align="center">
