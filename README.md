@@ -19,8 +19,10 @@ Starting from : April 27, 2022
 
 - <b>Project 6</b> - [Caesar Cipher - Convert between letters and numbers to perform math on text](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/6_caesar-cipher)
 
+- <b>Project 7</b> - [Caesar Hacker - Implement a brute-force cryptanalysis algorithm](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/7_caesar-hacker)
+
 <p align="center">
-Last Updated : May 1, 2022
+Last Updated : May 2, 2022
 </p>
 
 <p align="center">
