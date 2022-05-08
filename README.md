@@ -21,8 +21,12 @@ Starting from : April 27, 2022
 
 - <b>Project 7</b> - [Caesar Hacker - Implement a brute-force cryptanalysis algorithm](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/7_caesar-hacker)
 
+- <b>Project 8</b> - [Calendar Maker - Use Python's datetime module and the timedelta data type](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/8_calendar-maker)
+
+- <b>Project 78</b> - [Trick Questions - Parse the user's text to recognize keywords.](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/78_trick-questions)
+
 <p align="center">
-Last Updated : May 2, 2022
+Last Updated : May 7, 2022
 </p>
 
 <p align="center">
