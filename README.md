@@ -23,10 +23,12 @@ Starting from : April 27, 2022
 
 - <b>Project 8</b> - [Calendar Maker - Use Python's datetime module and the timedelta data type](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/8_calendar-maker)
 
+- <b>Project 74</b> - [Text-to-Speech Talker - Use your operating system's text-to-speech engine.](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/74_text-to-speech-talker)
+
 - <b>Project 78</b> - [Trick Questions - Parse the user's text to recognize keywords.](https://github.com/mK-zero/Big-Book-of-Small-Python-Projects/tree/main/78_trick-questions)
 
 <p align="center">
-Last Updated : May 7, 2022
+Last Updated : May 17, 2022
 </p>
 
 <p align="center">
